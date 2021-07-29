@@ -1,2 +1,2 @@
 # PC-I
-Repositório referente a disciplina de Programação de Computadores I (PC1)
+Repositório referente a disciplina de Programação de Computadores I (PC1) 📚
